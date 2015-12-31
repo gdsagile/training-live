@@ -4,6 +4,6 @@ rvm:
 
 deploy:
   provider: heroku
-  api_key: 26cea737-99ec-4147-8d64-0b67ae1871df
+  api_key: 37e3d16c-d6d0-43b6-9abc-91f714b4c168
   app: training-live
   
