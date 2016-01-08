@@ -5,4 +5,9 @@ class StaticPagesControllerTest < ActionController::TestCase
     get :index
     assert_response :success
   end
+  
+  test "should get training1" do
+    get :training1
+    assert_response :success
+  end  
 end
