@@ -6,4 +6,3 @@ deploy:
   provider: heroku
   api_key: 37e3d16c-d6d0-43b6-9abc-91f714b4c168
   app: training-live
-  
